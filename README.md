@@ -1,17 +1,13 @@
+<!-- Header -->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align='center'>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
-  </a>
-  
-  
 
-<!-- <img src="https://komarev.com/ghpvc/?username=MohamedAliyarAR&style=flat-square&color=blue" alt=""/> -->
+   
+ 
+<img src="https://komarev.com/ghpvc/?username=MohamedAliyarAR&style=flat-square&color=blue" alt=""/>
   
 <h1>
   𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 
@@ -23,20 +19,20 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
+<!-- About-section -->
 ### :technologist: About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I am a front end developer 
 
 - :seedling: Intrested in Backend and improving skills in it .
 
-- :zap: In my free time , I solve problems in Hacker rank,skillrack and codesignal.. 
+- :zap: In my free time , I solve problems in codesignal or watch anime . 
 
-- :blue_heart: I love to travel .
-- 🔭 I expect to gain more knowledge in development .
+- :blue_heart: I love to travel around world 🗺️ .
+- 🔭 Aspired to be a versatile developer .
 
 
 - ---
-
+<!-- skillset -->
 ### :hammer_and_wrench: Languages and Tools :
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -51,9 +47,22 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAliyarAR&theme=dark&background=000000)](https://git.io/streak-stats)
-<!-- <p align="center"> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAliyarAR&theme=react)](https://git.io/streak-stats)
+
+
+<!-- Footer -->
+
+### 💬: connect with me :
+  <a href="https://www.linkedin.com/in/mohamed-aliyar-486565221/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/_mohamed_aliyar_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge" />  
+</a>
+
+
+<p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p> -->
+<!--   <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" /> -->
+</p>
 
