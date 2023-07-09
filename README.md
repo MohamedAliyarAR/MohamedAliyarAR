@@ -21,11 +21,11 @@
 
 <!-- About-section -->
 ### :technologist: About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I am a front end developer 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I am a Full Stack developer 
 
-- :seedling: Intrested in Backend and improving skills in it .
+- :seedling: Daily I learn something new .
 
-- :zap: In my free time , I solve problems in codesignal or watch anime . 
+- :zap: In free time I watch anime . 
 
 - :blue_heart: I love to travel around world 🗺️ .
 - 🔭 Aspired to be a versatile developer .
