@@ -22,7 +22,7 @@
 </div>
 
 <!-- About-section -->
-### :technologist: About Me :
+### 👨‍💻 About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I am a Full Stack developer 
 
 - :seedling: Daily I learn something new .
@@ -35,7 +35,7 @@
 
 - ---
 <!-- skillset -->
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div align='center'>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
@@ -53,7 +53,7 @@
 </div>
 <hr/>
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAliyarAR&theme=react)](https://git.io/streak-stats)
 
 
