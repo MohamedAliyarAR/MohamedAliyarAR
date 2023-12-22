@@ -9,7 +9,7 @@
 
    
  
- <img src="https://komarev.com/ghpvc/?username=MohamedAliyarAR&style=flat-square&color=blue" alt=""/> 
+ [![](https://visitcount.itsvg.in/api?id=MohamedAliyarAR&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
   
 <h1>
   𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 
