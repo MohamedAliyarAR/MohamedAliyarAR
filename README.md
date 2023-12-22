@@ -54,7 +54,7 @@
 <hr/>
 
 ### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAliyarAR&theme=react)](https://git.io/streak-stats)
+![MohamedAliyarAR's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAliyarAR&theme=tokyonight&hide_border=true)
 
 
 <!-- Footer -->
@@ -68,9 +68,6 @@
 </a>
 
 
-<!-- <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p> -->
+
 
 
