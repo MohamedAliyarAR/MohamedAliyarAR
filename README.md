@@ -53,8 +53,6 @@
 </div>
 <hr/>
 
-### 🔥 My Stats :
-![MohamedAliyarAR's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAliyarAR&theme=tokyonight&hide_border=true)
 
 
 <!-- Footer -->
